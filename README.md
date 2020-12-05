@@ -8,6 +8,7 @@ This is my first Data Science Nanodegree program project
 3) ETL Pipeline Preparation.ipynb
 4) Disaster_Response_Database.db
 5) ML Pipeline Preparation.ipynb
+6) workspace folder
 
 ## Installation
 You need to install the following libraries,
@@ -31,3 +32,5 @@ In the project, we will find a data set containing real messages that were sent 
 **Disaster_Response_Database.db** : This is the database where the cleaned data is stored.
 
 **ML Pipeline Preparation.ipynb** : In this file we develop and test different machine learning algorithm for classifying those messages into the multi label categories.
+
+***workspace folder*** : It contains the web app version of the code
