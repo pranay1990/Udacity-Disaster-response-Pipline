@@ -12,3 +12,7 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+Finally the website display as the gif shown below,
+
+![animated_gif](https://github.com/pranay1990/Udacity-Disaster-response-Pipline/blob/main/workspace/animatedGIF.gif)
