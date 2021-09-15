@@ -2,6 +2,8 @@
 
 This is my first Data Science Nanodegree program project
 
+![Alt Text](https://github.com/pranay1990/Udacity-Disaster-response-Pipline/blob/main/workspace/animatedGIF.gif)
+
 ## Table of contents
 1) categories.csv
 2) messages.csv
